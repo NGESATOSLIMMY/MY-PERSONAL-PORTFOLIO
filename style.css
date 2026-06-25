@@ -61,4 +61,42 @@ nav{
      top: 0;
      z-index: 1000;
 }
-    
+.nav .navlogo{
+    font-size: 24px;
+    font-weight: bold;
+    color: #a9a9a9;
+}
+.nav .navlinks{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.nav .navlinks li{
+    margin-left: 20px;
+}
+.nav .navlinks li a{
+    text-decoration: none;
+    color: #a9a9a9;
+    font-size: 16px;
+}
+.name{
+    text-align: center;
+    margin-top: 50px;
+}   
+.proff{
+    text-align: center;
+    margin-top: 20px;
+}
+.skills{
+    text-align: center;
+    margin-top: 20px;
+}
+.education{
+    text-align: center;
+    margin-top: 20px;
+}
+.contacts{
+    text-align: center;
+    margin-top: 20px;
+}
